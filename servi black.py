@@ -56,28 +56,4 @@ remember.place (x=145, y= 450)
 playb = tk.Button(gui, text='REPEAT', bg = 'cyan' , command=play , height= 2 , padx=9 )
 playb.place(x=270, y=450)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 gui.mainloop()
